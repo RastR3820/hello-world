@@ -6,3 +6,5 @@ chatbot. I would create a new branch for each day that I work on it more than li
 compilable.
 
 Edit: This is testing how repl.it handle edits of existing files in the repo
+
+Edit2: Created files and stuff from git command line to see how this would work in the case of not using repl.it
